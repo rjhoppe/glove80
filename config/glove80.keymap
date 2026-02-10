@@ -67,6 +67,8 @@
 
 #define LAYER_Lower 0
 
+#endif
+
 #
 
 endif {
