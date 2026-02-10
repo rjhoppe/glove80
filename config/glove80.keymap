@@ -67,11 +67,7 @@
 
 #define LAYER_Lower 0
 
-#endif
-
-#
-
-endif {
+#endif {
     /* Custom Device-tree */
     /* Input Listeners */
     /* System behavior and Macros */
