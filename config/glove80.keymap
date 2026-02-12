@@ -289,13 +289,13 @@
         compatible = "zmk,combos";
 
         combo_num_left {
-            bindings = <&tog 1>;
+            bindings = <&sl 1>;
             key-positions = <37 38>;
             layers = <0 1 2>;
         };
 
         combo_sym_right {
-            bindings = <&tog 2>;
+            bindings = <&sl 2>;
             key-positions = <41 42>;
             layers = <0 2 1>;
         };
@@ -330,7 +330,7 @@
             bindings = <
 &none       &none      &none          &none                  &none                                                                                     &none          &none             &none     &none       &none
 &none       &none      &none          &none                  &none      &none                                                            &none         &none          &none             &none     &none       &none
-&none       &none      &none          &none                  &none      &none                                                            &none         &none          &kp LBKT          &kp RBKT  &kp DOLLAR  &none
+&none       &none      &kp SQT        &kp AT_SIGN            &kp MINUS  &none                                                            &kp PERCENT   &kp SLASH      &kp LBKT          &kp RBKT  &kp DOLLAR  &none
 &none       &kp EQUAL  &kp LPAR       &kp RIGHT_PARENTHESIS  &kp SEMI   &kp QUESTION                                                     &kp EXCL      &kp COLON      &kp LBRC          &kp RBRC  &kp HASH    &none
 &none       &kp TILDE  &kp AMPERSAND  &kp PIPE               &kp GRAVE  &kp BACKSLASH  &trans  &to 0   &trans    &trans  &trans  &trans  &kp ASTERISK  &kp LESS_THAN  &kp GREATER_THAN  &kp PLUS  &kp CARET   &none
 &magic 3 0  &none      &none          &none                  &none                     &trans  &trans  &trans    &trans  &trans  &trans                &none          &none             &none     &none       &none
