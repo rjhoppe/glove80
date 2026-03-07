@@ -35,3 +35,17 @@ To locate your firmware files and reflash your Glove80...
 6. Flash the firmware to Glove80 according to the user documentation on the official Glove80 Glove80 Support website (linked above)
 
 Your keyboard is now ready to use.
+
+## Custom Layers
+
+### Base Layer (0)
+<img width="2400" height="1194" alt="glove80_base_layer_0" src="https://github.com/user-attachments/assets/f2f18b91-cee4-4ee1-bcf8-f9c1036e9c82" />
+
+### Num Layer (1)
+<img width="2400" height="1195" alt="glove80_num_layer_1" src="https://github.com/user-attachments/assets/bfa0074d-bddb-4eee-bb33-9bec3ae332dd" />
+
+### Symbol Layer (2)
+<img width="2400" height="1196" alt="glove80_symbol_layer_2" src="https://github.com/user-attachments/assets/ac8cc643-c199-4fcc-9d1b-38a53f10b2d3" />
+
+### Magic Layer (Default) (3)
+<img width="2400" height="1313" alt="glove80_magic_layer_3" src="https://github.com/user-attachments/assets/8df6ebc2-d4cf-4ae4-83d2-fce97fc6bac5" />
