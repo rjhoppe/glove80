@@ -41,7 +41,7 @@ Your keyboard is now ready to use.
 ### Base Layer (0)
 <img width="2400" height="1194" alt="glove80_base_layer_0" src="https://github.com/user-attachments/assets/f2f18b91-cee4-4ee1-bcf8-f9c1036e9c82" />
 
-### Num Layer (1)
+### Number Layer (1)
 <img width="2400" height="1195" alt="glove80_num_layer_1" src="https://github.com/user-attachments/assets/bfa0074d-bddb-4eee-bb33-9bec3ae332dd" />
 
 ### Symbol Layer (2)
